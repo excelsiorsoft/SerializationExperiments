@@ -1,0 +1,2 @@
+1. check out the samples of running java client with java server, and clojure -> clojure
+2. check out how to implement client - server on Android, 2 repos (client & server) are among the links

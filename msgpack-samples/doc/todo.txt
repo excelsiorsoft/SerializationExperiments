@@ -1,0 +1,2 @@
+1. add the features found on the enclosed link from the msgpack main site.
+2. run and check out the existing tests (they are from github repo of msgpack) to see the products main features
